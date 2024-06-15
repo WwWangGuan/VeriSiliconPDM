@@ -37,20 +37,8 @@
 #include "osal_task_api.h"
 #include "vpi_error.h"
 #include "main.h"
-
-static void task_sample(void *param)
-{
-    int count = 0;
-
-    while (count < 10) {
-        count++;
-        uart_printf("Sample task count %d\r\n", count);
-        osal_sleep(1000);
-    }
-
-    uart_printf("Finish sample task!\r\n");
-    osal_delete_task(NULL);
-}
+#include "speech_task.h"
+#include "algo_task.h"
 
 static void task_init_app(void *param)
 {
@@ -63,8 +51,9 @@ static void task_init_app(void *param)
         uart_printf("Board: %s", board_dev.name);
 
     uart_printf("Hello VeriHealthi!\r\n");
-
-    osal_create_task(task_sample, "task_sample", 512, 4, NULL);
+    osal_create_task(speech_task,"speech_task",512,1,NULL);
+    osal_create_task(algo_task,"algo_task",1024,1,NULL);
+//    osal_create_task(task_sample, "task_sample", 512, 4, NULL);
     osal_delete_task(NULL);
 }
 
@@ -84,8 +73,7 @@ int main(void)
         uart_printf("soc init done");
     }
 
-    osal_create_task(task_init_app, "init_app", 512, 1, NULL);
-    osal_create_task(sppech_task,"speech_task",512,1,NULL);
+    osal_create_task(task_init_app, "init_app", 512, 2, NULL);
     osal_start_scheduler();
 
 exit:
