@@ -1,0 +1,26 @@
+var searchData=
+[
+  ['wait_5fforever_0',['WAIT_FOREVER',['../group___s_w___t_i_m_e_r.html#gac89d2c332821be06166c210249b671e7',1,'vpi_sw_timer.h']]],
+  ['width_1',['width',['../struct___pdm_fifo.html#a783b49fccaca57895eaf7d6cbbd7214c',1,'_PdmFifo']]],
+  ['width_5f16_5fbits_5ftype_2',['WIDTH_16_BITS_TYPE',['../group___h_a_l.html#gga825bf42fae53dbe76b34725ef384258faf0de64ec4221405c46b30e5c3bd9c047',1,'hal_common.h']]],
+  ['width_5f32_5fbits_5ftype_3',['WIDTH_32_BITS_TYPE',['../group___h_a_l.html#gga825bf42fae53dbe76b34725ef384258fa2795c650bd9ac98b1c6369740ca733de',1,'hal_common.h']]],
+  ['width_5f64_5fbits_5ftype_4',['WIDTH_64_BITS_TYPE',['../group___h_a_l.html#gga825bf42fae53dbe76b34725ef384258fac964e05f48fe48f702ea156a12402f40',1,'hal_common.h']]],
+  ['width_5f8_5fbits_5ftype_5',['WIDTH_8_BITS_TYPE',['../group___h_a_l.html#gga825bf42fae53dbe76b34725ef384258fadf580313599043dad29c4a7eac77fd2b',1,'hal_common.h']]],
+  ['width_5fcap_5f16_5fbit_6',['WIDTH_CAP_16_BIT',['../group___h_a_l.html#ggabfaae39c3193e4f15054741f9945338eadd6b6831c161f4aa8db70f0fe15c9243',1,'hal_common.h']]],
+  ['width_5fcap_5f32_5fbit_7',['WIDTH_CAP_32_BIT',['../group___h_a_l.html#ggabfaae39c3193e4f15054741f9945338ea9d3377d7c708e694319c2e0e5921b564',1,'hal_common.h']]],
+  ['width_5fcap_5f64_5fbit_8',['WIDTH_CAP_64_BIT',['../group___h_a_l.html#ggabfaae39c3193e4f15054741f9945338eabb9754824195e70110fe2397eca46026',1,'hal_common.h']]],
+  ['width_5fcap_5f8_5fbit_9',['WIDTH_CAP_8_BIT',['../group___h_a_l.html#ggabfaae39c3193e4f15054741f9945338ea558356d3e6241207d93778a6fcda1bca',1,'hal_common.h']]],
+  ['width_5fcapability_10',['width_capability',['../struct_dmac_hw_config.html#a657cef2aac28941f2f1242154858010d',1,'DmacHwConfig']]],
+  ['width_5ftype_5fdefault_11',['WIDTH_TYPE_DEFAULT',['../group___h_a_l.html#gga825bf42fae53dbe76b34725ef384258fab73b751a5aeab641a2799e338b8405e1',1,'hal_common.h']]],
+  ['width_5ftype_5fmax_12',['WIDTH_TYPE_MAX',['../group___h_a_l.html#gga825bf42fae53dbe76b34725ef384258fa64caaa88ff06d11e48a046595756ea37',1,'hal_common.h']]],
+  ['woke_5fup_5fble_5fhs_13',['WOKE_UP_BLE_HS',['../group___e_v_e_n_t_s.html#gga2c8290fa0a972856fb2717b4684db881aabad95c38f5fb5bb0784db3d33291975',1,'vpi_event_def.h']]],
+  ['woke_5fup_5fble_5fuser_14',['WOKE_UP_BLE_USER',['../group___e_v_e_n_t_s.html#gga2c8290fa0a972856fb2717b4684db881a31042455d3d9eec9a36f708838a520a4',1,'vpi_event_def.h']]],
+  ['woke_5fup_5fcold_5fboot_15',['WOKE_UP_COLD_BOOT',['../group___e_v_e_n_t_s.html#gga2c8290fa0a972856fb2717b4684db881a042b9c9303a6de8c8694626cd6cafba4',1,'vpi_event_def.h']]],
+  ['woke_5fup_5ffall_5fdown_16',['WOKE_UP_FALL_DOWN',['../group___e_v_e_n_t_s.html#gga2c8290fa0a972856fb2717b4684db881ae976fa4be63804e883ff0ba4a46e76ca',1,'vpi_event_def.h']]],
+  ['woke_5fup_5fpwr_5fkey_17',['WOKE_UP_PWR_KEY',['../group___e_v_e_n_t_s.html#gga2c8290fa0a972856fb2717b4684db881acdc6cfa9de095482a0129315e810dc8d',1,'vpi_event_def.h']]],
+  ['woke_5fup_5funknown_18',['WOKE_UP_UNKNOWN',['../group___e_v_e_n_t_s.html#gga2c8290fa0a972856fb2717b4684db881a2b606a6f06a56597273f301023eef118',1,'vpi_event_def.h']]],
+  ['woke_5fup_5fuser_5ftouch_19',['WOKE_UP_USER_TOUCH',['../group___e_v_e_n_t_s.html#gga2c8290fa0a972856fb2717b4684db881aa214a0e6aebdf97f98f3f993e90fff6e',1,'vpi_event_def.h']]],
+  ['woke_5fup_5fvital_5ftimer_20',['WOKE_UP_VITAL_TIMER',['../group___e_v_e_n_t_s.html#gga2c8290fa0a972856fb2717b4684db881a5cc663d957d264ec32169e6933399815',1,'vpi_event_def.h']]],
+  ['wokeupreasonid_21',['WokeUpReasonId',['../group___e_v_e_n_t_s.html#ga2c8290fa0a972856fb2717b4684db881',1,'vpi_event_def.h']]],
+  ['word_5fsize_22',['word_size',['../struct_uart_xfer_config.html#af8a2764afcac211ed0f4d7dbdecc0300',1,'UartXferConfig']]]
+];

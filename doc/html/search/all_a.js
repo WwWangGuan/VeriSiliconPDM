@@ -1,0 +1,28 @@
+var searchData=
+[
+  ['ld_5faddr_5funalign_5fexc_0',['LD_ADDR_UNALIGN_EXC',['../group___p_e_g_a_s_u_s.html#gga0e0f0f1661d7aeb71ed9698bff6c6383af5563e1dbfe788e67948427eb118c9d5',1,'platform.h']]],
+  ['ld_5ffault_5fexc_1',['LD_FAULT_EXC',['../group___p_e_g_a_s_u_s.html#gga0e0f0f1661d7aeb71ed9698bff6c6383a8f2d790ebf2af7f8eb172b70e04adbaf',1,'platform.h']]],
+  ['led_5fgpio_5fdev0_5fid_2',['LED_GPIO_DEV0_ID',['../group___d_e_v_i_c_e.html#gga414872c624bb3eb10f03bd3a7ece7292a5b2d5bbbb196adfa38510bd8346fee92',1,'device.h']]],
+  ['led_5fgpio_5fdev1_5fid_3',['LED_GPIO_DEV1_ID',['../group___d_e_v_i_c_e.html#gga414872c624bb3eb10f03bd3a7ece7292ae09c1922bb0515a04498f9ab5fbe74c5',1,'device.h']]],
+  ['led_5fpwm_5fdev_5fid_4',['LED_PWM_DEV_ID',['../group___d_e_v_i_c_e.html#gga414872c624bb3eb10f03bd3a7ece7292afbd8b89ca572358dcd53672997e37c9b',1,'device.h']]],
+  ['len_5',['len',['../struct_dmac_xfer_cfg.html#a01fc04dacde89c2b0f1a215d469d63d1',1,'DmacXferCfg::len'],['../struct_ota_data_packet.html#a82fae4a54eb50fea29f9cb8000eb98e2',1,'OtaDataPacket::len'],['../struct_dma_init_cfg.html#a9e0622e820c4c348ee81a4a86cd16bff',1,'DmaInitCfg::len']]],
+  ['license_6',['License',['../index.html#autotoc_md3',1,'']]],
+  ['list_7',['LIST',['../group___l_i_s_t.html',1,'']]],
+  ['list_5fhead_8',['list_head',['../structlist__head.html',1,'']]],
+  ['lli_5fen_9',['lli_en',['../struct_dmac_hw_config.html#a7676c7d34ba58c12f558ab6149130028',1,'DmacHwConfig']]],
+  ['lli_5fnum_10',['lli_num',['../struct_dmac_xfer_cfg.html#ae9e7ad36fbb9759b4c2e4b4f398693b9',1,'DmacXferCfg']]],
+  ['llp_11',['llp',['../struct_dmac_lli_item.html#ad52e830afa6717c48ab043d71e4e72c5',1,'DmacLliItem']]],
+  ['llp_5fdst_5fen_12',['llp_dst_en',['../struct_dmac_ctl_reg.html#ac83ef6b3cf61219dacd74364dd1f8d34',1,'DmacCtlReg']]],
+  ['llp_5fsrc_5fen_13',['llp_src_en',['../struct_dmac_ctl_reg.html#ac3ae7318338b8cd0993f2b0b8d7bd340',1,'DmacCtlReg']]],
+  ['llpx_14',['llpx',['../struct_dmac_xfer_cfg.html#afb08fc83d2fe26aa055e5f0acfbdab47',1,'DmacXferCfg']]],
+  ['lock_15',['LOCK',['../group___l_o_c_k.html',1,'']]],
+  ['log_5flvl_5fcritical_16',['LOG_LVL_CRITICAL',['../group___l_o_g_g_i_n_g.html#ga545e0aeddfaf0d081930f3e774f9605c',1,'vs_logging.h']]],
+  ['log_5flvl_5fdebug_17',['LOG_LVL_DEBUG',['../group___l_o_g_g_i_n_g.html#ga53c803f33c5c85bd3cf6da059a8d3bb5',1,'vs_logging.h']]],
+  ['log_5flvl_5ferror_18',['LOG_LVL_ERROR',['../group___l_o_g_g_i_n_g.html#gae890d45fb789daa2339037b420543614',1,'vs_logging.h']]],
+  ['log_5flvl_5finfo_19',['LOG_LVL_INFO',['../group___l_o_g_g_i_n_g.html#gac3e78b61442ad2528aeb50a4f24240f2',1,'vs_logging.h']]],
+  ['log_5flvl_5fnone_20',['LOG_LVL_NONE',['../group___l_o_g_g_i_n_g.html#ga4b9f479ecfb0fe8f95b8e1723bd39f37',1,'vs_logging.h']]],
+  ['log_5flvl_5fwarning_21',['LOG_LVL_WARNING',['../group___l_o_g_g_i_n_g.html#ga1828073747c4784fd3301e08681cd441',1,'vs_logging.h']]],
+  ['logging_22',['LOGGING',['../group___l_o_g_g_i_n_g.html',1,'']]],
+  ['logging_5fnone_23',['logging_none',['../group___l_o_g_g_i_n_g.html#ga1994049cc21d761f9b5529a4bbb643fc',1,'vs_logging.h']]],
+  ['loop_5fback_24',['loop_back',['../struct_uart_xfer_config.html#a59c654fd0c3120e26fb9ed870b6042c9',1,'UartXferConfig']]]
+];

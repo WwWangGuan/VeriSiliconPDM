@@ -1,0 +1,24 @@
+var searchData=
+[
+  ['xfer_5fcap_5fdma_0',['XFER_CAP_DMA',['../group___h_a_l.html#gga49fda91d0f4bf2239dd8d2c1741a626cac2f4f0428a6450f33daa7c3c9b9ada28',1,'hal_common.h']]],
+  ['xfer_5fcap_5fintr_1',['XFER_CAP_INTR',['../group___h_a_l.html#gga49fda91d0f4bf2239dd8d2c1741a626cadfc5e467fd1946fc176a5e688b60bdee',1,'hal_common.h']]],
+  ['xfer_5fcap_5fpolling_2',['XFER_CAP_POLLING',['../group___h_a_l.html#gga49fda91d0f4bf2239dd8d2c1741a626cacbc608e523b8669682a6cdd893864248',1,'hal_common.h']]],
+  ['xfer_5fcapability_3',['xfer_capability',['../struct___p_d_m_h_w_config.html#a4e12e064faf53dcc0ae48836d6c6833a',1,'_PDMHWConfig::xfer_capability'],['../struct_uart_hw_config.html#a64526af73aa13a0257e5693318d1c495',1,'UartHwConfig::xfer_capability']]],
+  ['xfer_5fcfg_4',['xfer_cfg',['../struct_dmac_device.html#a8eff8e7c715d57b689c8ea9178346111',1,'DmacDevice::xfer_cfg'],['../struct_uart_device.html#a17ebb1fb5d791368a447c3edcdb862fe',1,'UartDevice::xfer_cfg']]],
+  ['xfer_5fmode_5',['xfer_mode',['../struct___pdm_substream.html#a5a1f57eb98f6688df381580153234fc4',1,'_PdmSubstream::xfer_mode'],['../struct_uart_xfer_config.html#a2c181dd3d7816e340acc048ee97c64d5',1,'UartXferConfig::xfer_mode']]],
+  ['xfer_5fmode_5fdefault_6',['XFER_MODE_DEFAULT',['../group___h_a_l.html#ggacc74b66bc121d44ee221b63fb9a76027a220ce98d80451fbe3a71b724af059648',1,'hal_common.h']]],
+  ['xfer_5fmode_5fdma_7',['XFER_MODE_DMA',['../group___h_a_l.html#ggacc74b66bc121d44ee221b63fb9a76027af6d784f83638ed600dab38056b61313b',1,'hal_common.h']]],
+  ['xfer_5fmode_5fintr_8',['XFER_MODE_INTR',['../group___h_a_l.html#ggacc74b66bc121d44ee221b63fb9a76027aec54ae797b1bed3128904754f038f42a',1,'hal_common.h']]],
+  ['xfer_5fmode_5fmax_9',['XFER_MODE_MAX',['../group___h_a_l.html#ggacc74b66bc121d44ee221b63fb9a76027a75875b44d31ca9eb9984aa0f75d74fb7',1,'hal_common.h']]],
+  ['xfer_5fmode_5fpolling_10',['XFER_MODE_POLLING',['../group___h_a_l.html#ggacc74b66bc121d44ee221b63fb9a76027a0ed3ebe69be77f5ead950b08773dae14',1,'hal_common.h']]],
+  ['xfercallback_11',['XferCallback',['../group___h_a_l.html#ga5ec15413ca397e2cfbbc9e9fcd27d2cc',1,'hal_common.h']]],
+  ['xfercapability_12',['XferCapability',['../group___h_a_l.html#ga49fda91d0f4bf2239dd8d2c1741a626c',1,'hal_common.h']]],
+  ['xferinfo_13',['XferInfo',['../struct_xfer_info.html',1,'']]],
+  ['xfermodedef_14',['xfermodedef',['../group___h_a_l.html#gacc74b66bc121d44ee221b63fb9a76027',1,'XferModeDef:&#160;hal_common.h'],['../group___h_a_l.html#ga02241c5eb08f2f5463d9073ff8fe4211',1,'XferModeDef:&#160;hal_common.h']]],
+  ['xisprivileged_15',['xIsPrivileged',['../portmacro_8h.html#aeb898982ec8e7db29c57dcaedfd824d6',1,'portmacro.h']]],
+  ['xportgetfreenoncacheheapsize_16',['xPortGetFreeNonCacheHeapSize',['../heap__4__noncache_8h.html#a7aae08179e15a8658bc0347f0052c47a',1,'heap_4_noncache.h']]],
+  ['xportgetminimumeverfreenoncacheheapsize_17',['xPortGetMinimumEverFreeNonCacheHeapSize',['../heap__4__noncache_8h.html#af4edb5e731c54bd00a9256d5712f21f7',1,'heap_4_noncache.h']]],
+  ['xstatic_5fqueue_18',['xSTATIC_QUEUE',['../structx_s_t_a_t_i_c___q_u_e_u_e.html',1,'']]],
+  ['xtaskgettickcount_19',['xTaskGetTickCount',['../os__adapter_8h.html#a972d207f8681c47a9ddb2e0ec76302de',1,'os_adapter.h']]],
+  ['xtimergetexpirytime_20',['xTimerGetExpiryTime',['../os__adapter_8h.html#ac1be38ce6691192258bbf571d83477bb',1,'os_adapter.h']]]
+];
